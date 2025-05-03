@@ -1,0 +1,2 @@
+
+jariJari    = 7
